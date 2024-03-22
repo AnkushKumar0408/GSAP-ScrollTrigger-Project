@@ -8,4 +8,8 @@ All the elements present in website Animate from final position to initial posit
 
 These Animation are possible due to GSAP which is a library of JavaScript so must check JavaScript file.
 
+I used timeline function and ScrollTrigger which is provided by GSAP.
+
+Scrolling of webpage controls the Animation.
+
 I used HTML, CSS and GSAP in this Project.
