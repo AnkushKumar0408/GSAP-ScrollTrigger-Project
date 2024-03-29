@@ -1,6 +1,6 @@
 # GSAP-ScrollTrigger-Project
 
-So guys this is 15th project of my 30 days frontend project challenge.
+So guys this is 15th project of my 25 days frontend project challenge.
 
 This project consist Animations. 
 
